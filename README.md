@@ -1,1 +1,3 @@
-"# weather-app-JS-netNinja" 
+# Weather App from NetNinja JS Course
+
+# Using AccuWeather API
